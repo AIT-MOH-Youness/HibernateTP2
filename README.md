@@ -20,7 +20,7 @@ L'application permet de :
 
 1. **Clonez le projet:**
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/AIT-MOH-Youness/HibernateTP2.git
    ```
 
 2. **Construisez le projet avec Maven:**
